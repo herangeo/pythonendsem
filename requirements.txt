@@ -1,6 +1,6 @@
 streamlit
 plotly
 pandas
-cv2
-PIL
+opencv
+pillow
 numpy
